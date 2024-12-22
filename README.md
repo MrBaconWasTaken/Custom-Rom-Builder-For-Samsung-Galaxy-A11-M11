@@ -1,5 +1,6 @@
-# Custom Rom Builder For Samsung Galaxy A11/M11
+# DO NOTE THIS TOOL ONLY WORKS UP TO ANDROID 14 SEPTEMBER 2024 PATCH
 
+# Custom Rom Builder For Samsung Galaxy A11/M11
 <br>⚬ This tool can create full flashble zip with any gsi</br>
 ⚬ This tool support both arm32 and arm64
 ⚬ Arm64 still not supported
