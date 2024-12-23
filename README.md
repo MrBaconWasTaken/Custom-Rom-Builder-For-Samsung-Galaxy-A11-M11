@@ -1,6 +1,9 @@
 # LIST OF CURRENTLY WORKING ROMS (TESTED ON SAMSUNG GALAXY A11 SM-A115F)
 <br>⚬Lineage OS 21.0 (Up to 2024-09-18 patch)</br>
-<br>⚬ Voltage OS 3.7 EOL</br>
+⚬ Voltage OS 3.7 EOL
+<br>⚬ CrDroid 10.8 </br>
+<br>**if you don't wanna build it yourself, download links are on the releases tab**
+<br> **I am NOT responsible for any bricked devices, USE AT YOUR OWN RISK** 
 
 # Custom Rom Builder For Samsung Galaxy A11/M11
 <br>⚬ This tool can create full flashble zip with any gsi</br>
