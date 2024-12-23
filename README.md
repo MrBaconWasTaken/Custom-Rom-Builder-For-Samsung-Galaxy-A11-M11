@@ -1,4 +1,7 @@
-# DO NOTE THIS TOOL ONLY WORKS UP TO ANDROID 14 SEPTEMBER 2024 PATCH
+# LIST OF CURRENTLY WORKING ROMS (TESTED ON SAMSUNG GALAXY A11 SM-A115F)
+<br>⚬Lineage OS 21.0 (Up to 2024-09-18 patch)</br>
+<br>⚬ Voltage OS 3.7 EOL</br>
+<br>⚬ CrDroid 10.11 </br>
 
 # Custom Rom Builder For Samsung Galaxy A11/M11
 <br>⚬ This tool can create full flashble zip with any gsi</br>
